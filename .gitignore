@@ -1,7 +1,0 @@
-*.log
-node_modules/
-config.json
-.DS_Store
-~$*.xlsx
-.gitignore
-
